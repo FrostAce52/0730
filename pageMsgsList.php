@@ -74,6 +74,7 @@ $conn->close();
 <body>
     <div class="container">
         <h1>訊息列表</h1>
+        <h2>22222222222</h2>
         <div class="my-2 d-flex">
             <span class="me-auto">目前共 <?= $msgCount ?> 筆資料</span>
             <a class="btn btn-primary btn-sm" href="./testForm02.php">增加資料</a> <!-- 超連結導向 Form 頁面 -->
